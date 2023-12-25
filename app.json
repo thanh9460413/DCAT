@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "DCAT",
+    "slug": "DCAT",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/p-high-resolution-logo-transparent.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/p-high-resolution-logo-transparent.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/p-high-resolution-logo-transparent.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/p-high-resolution-logo-transparent.png"
+    }
+  }
+}
